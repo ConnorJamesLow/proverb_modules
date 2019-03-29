@@ -1,0 +1,21 @@
+{
+  "name": "@pancakeoverflow/requests",
+  "version": "1.3.1",
+  "description": "Request and cookie package for Proverb",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Connor Low",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {}
+}
